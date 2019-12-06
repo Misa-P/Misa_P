@@ -1,0 +1,17 @@
+Playing around with creating a vs. AI poker game. Basic barebones functions complete. Not yet viable for use.
+
+Required (also available in code):
+1. AI only calls, never raises or folds. 
+    a. Implement basic folding logic
+    b. Implement basic raising logic
+2. Include graphics
+3. Freeze as executable possibly
+4. Have a GUI rather than in Python terminal
+5. Confirmations before moving between dealing and betting phases each round.
+6. Confirmation of pot size before each betting phase
+7. General error checking functions
+8. Simplifying main body code
+9. Inclusion of jokers?
+10. Be clearer on game ending conditions and results: i.e. victory/loss?
+11: Multiple AI players?
+12. Inclusion of other human players?
